@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="xValue" type="id" />
+    <item name="yValue" type="id" />
+    <item name="zValue" type="id" />
+</resources>

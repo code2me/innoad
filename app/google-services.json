@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "625718955081",
+    "firebase_url": "https://gpstracking-code2do.firebaseio.com",
+    "project_id": "gpstracking-code2do",
+    "storage_bucket": "gpstracking-code2do.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625718955081:android:87fca1a0a4d2460c4cc398",
+        "android_client_info": {
+          "package_name": "com.example.gpstracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625718955081-0qhah3tilbqse3cmffd3gsshvl3dceul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gpstracking",
+            "certificate_hash": "b20d3c2d3dc34bb9b090b9a195605363ae3061a0"
+          }
+        },
+        {
+          "client_id": "625718955081-7uqrdf1oprmeg8df39196vjq013bln4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMIo6gDWhjpBuyg5-lc374BuYkcVR9zPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625718955081-7uqrdf1oprmeg8df39196vjq013bln4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
